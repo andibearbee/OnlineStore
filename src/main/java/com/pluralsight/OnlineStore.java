@@ -53,44 +53,9 @@ public class OnlineStore {
 
     }
 
-    public static void
+    public static void displayList() {
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    }
 
 
 
